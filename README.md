@@ -1,1 +1,1 @@
-# pokemonTutorialｌ
+# pokemonTutorial
